@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ciredoog
 - 👀 I’m interested in: Making games! Video games have been a huge part of my life and I see them as the ultimate multi-media artform!!
 - 🌱 I’m currently learning: A lot. I am learning Godot 4 and I am also trying to get into the ethical hacking space.
-- 💞️ I’m looking to collaborate on: Anything!! I am not a very experience programmer by ANY means, but I have a great desire to learn as much as possible. I may not be the best asset, at first,
+- 💞️ I’m looking to collaborate on: Anything!! I am not a very experienced programmer by ANY means, but I have a great desire to learn as much as possible. I may not be the best asset, at first,
   but I will do my best!
 - 📫 How to reach me e.c.groves32@gmail.com (please specify that you got to me thru github :) )
 - 😄 Pronouns: he/him
